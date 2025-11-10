@@ -1,4 +1,7 @@
 # Commons Uploader
+
+**⚠️ NOTE: This project has been archived and is no longer being maintained.**
+
 Mobile App for uploading Images to Wikimedia Commons. 
 
 [Commons Uploader on Play Store](https://play.google.com/store/apps/details?id=ch.ifs.commonsuploader)
